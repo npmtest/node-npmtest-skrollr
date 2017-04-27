@@ -1,4 +1,7 @@
-# test coverage for  [skrollr (v0.6.26)](https://github.com/Prinzhorn/skrollr)  [![npm package](https://img.shields.io/npm/v/npmtest-skrollr.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-skrollr) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-skrollr.svg)](https://travis-ci.org/npmtest/node-npmtest-skrollr)
+# npmtest-skrollr
+
+#### basic test coverage for  [skrollr (v0.6.26)](https://github.com/Prinzhorn/skrollr)  [![npm package](https://img.shields.io/npm/v/npmtest-skrollr.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-skrollr) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-skrollr.svg)](https://travis-ci.org/npmtest/node-npmtest-skrollr)
+
 #### Stand-alone parallax scrolling library with zero dependencies.
 
 [![NPM](https://nodei.co/npm/skrollr.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/skrollr)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-skrollr/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-skrollr/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-skrollr/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-skrollr/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-skrollr/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-skrollr/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-skrollr/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-skrollr/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-skrollr/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-skrollr/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-skrollr/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-skrollr/build/coverage.html/index.html)
 
@@ -96,7 +99,8 @@
             },
             "pkgid": "skrollr@0.6.26"
         }
-    ]
+    ],
+    "bin": {}
 }
 ```
 
